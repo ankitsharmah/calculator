@@ -20,7 +20,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(6,1fr);
-    background: linear-gradient(45deg, #f40ce1, #c16ce0);
+    background: linear-gradient(45deg, #1e111d, #140b18);
     gap: 3px;
     border-radius: 10px;
     border: 2px solid rgb(226, 14, 184);
